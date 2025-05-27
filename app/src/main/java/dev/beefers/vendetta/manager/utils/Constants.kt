@@ -7,7 +7,7 @@ object Constants {
 
     val TEAM_MEMBERS = listOf(
         TeamMember("Adv", "Artist - Made the icons work", "aydeevee")
-        TeamMember("🍦Vanilla Milk🥛", "Donator - Made the first donation :)", "ChocolateMilk314")
+        TeamMember("🍦Vanilla Milk🥛", "Donator - Made the first donation", "ChocolateMilk314")
     )
 
     // NOTE: This is no longer used
