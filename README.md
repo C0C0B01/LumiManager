@@ -30,7 +30,7 @@ Build
 #### Instructions
 
 1. Clone the repo
-    - `git clone https://github.com/C0C0B01/KettuManager.git && cd KettuManager`
+    - `git clone https://github.com/C0C0B01/LumiManager.git && cd LumiManager`
 2. Build the project
     - Linux: `chmod +x ./gradlew && gradlew assembleDebug`
     - Windows: `./gradlew assembleDebug`
@@ -48,6 +48,6 @@ Here are a few things you can do:
     
 License
 ---
-KettuManager is licensed under the Open Software License version 3.0
+LumiManager is licensed under the Open Software License version 3.0
 
 [![License: OSL v3](https://img.shields.io/badge/License-OSL%20v3-blue.svg?style=for-the-badge)](https://github.com/C0C0B01/LumiManager/blob/main/LICENSE)

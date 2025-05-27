@@ -54,7 +54,7 @@ class DownloadManager(
             ?: throw IllegalStateException("DownloadManager service is not available")
 
         val downloadId = DownloadManager.Request(Uri.parse(url))
-            .setTitle("Kettu Manager")
+            .setTitle("Lumi Manager")
             .setDescription("Downloading ${out.name}...")
             .setDestinationUri(Uri.fromFile(out))
             .setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE)

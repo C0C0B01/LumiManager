@@ -18,7 +18,7 @@ class PreferenceManager(context: Context) :
 
     var packageName by stringPreference("package_name", "cocobo1.lumi.app")
 
-    var appName by stringPreference("app_name", "Kettu")
+    var appName by stringPreference("app_name", "Lumi")
 
     var discordVersion by stringPreference("discord_version", "")
 
