@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Cache pulita con successo</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Caricamento…</string>
     <string name="msg_downgrade_disallowed">Impossibile eseguire il downgrade, prova a disinstallare prima</string>
     <string name="msg_unlocked">Ora sei uno sviluppatore</string>
-    <string name="msg_permission_grant">Affinché Kettu Manager possa funzionare, sono richiesti i permessi dei file. Dal momento che i dati condivisi sono memorizzati in ~/Kettu, sono necessari i permessi per accedervi.</string>
+    <string name="msg_permission_grant">Affinché Lumi Manager possa funzionare, sono richiesti i permessi dei file. Dal momento che i dati condivisi sono memorizzati in ~/Lumi, sono necessari i permessi per accedervi.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">Vuoi provare di nuovo usando un download alternativo?</string>
     <string name="msg_invalid_apk">L\'APK è corrotto, prova a svuotare la cache e poi a reinstallarlo</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Download apk librerie</string>
     <string name="step_dl_lang">Download apk lingua</string>
     <string name="step_dl_res">Download apk risorse</string>
-    <string name="step_dl_vd">Download modulo Kettu</string>
+    <string name="step_dl_vd">Download modulo Lumi</string>
     <string name="step_change_icon">Cambia icona dell\'app</string>
     <string name="step_patch_manifests">Patch manifest dell\'app</string>
-    <string name="step_add_vd">Iniettando Kettu</string>
+    <string name="step_add_vd">Iniettando Lumi</string>
     <string name="step_signing">Firmando gli APK</string>
     <string name="step_installing">Installando APK</string>
     <string name="installer_success">Installato con successo</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Aggiorna</string>
     <string name="action_open_about">Apri informazioni</string>
     <string name="action_open_settings">Apri impostazioni</string>
-    <string name="action_tap_to_install">Tocca per installare Kettu per Discord %1$s</string>
+    <string name="action_tap_to_install">Tocca per installare Lumi per Discord %1$s</string>
     <string name="action_confirm_exit">Esci comunque</string>
     <string name="action_dismiss_nevermind">Non importa</string>
     <string name="action_dismiss_no_thanks">No grazie</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_check_updates">Controlla aggiornamenti di Discord</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">Nome app</string>
     <string name="settings_app_icon">Sostituisci l\'icona dell\'app</string>
-    <string name="settings_app_icon_description">Utilizza l\'icona di Kettu al posto di Discord</string>
+    <string name="settings_app_icon_description">Utilizza l\'icona di Lumi al posto di Discord</string>
     <string name="settings_advanced">Avanzate</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Canale di rilascio</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Abilita flag debug</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Kettu Manager versione %1$s è disponibile!</string>
+    <string name="update_description">Lumi Manager versione %1$s è disponibile!</string>
     <string name="channel_stable">Stabile</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

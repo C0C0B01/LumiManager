@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Gestionnaire de Kettu</string>
+    <string name="app_name">Gestionnaire de Lumi</string>
     <string name="cd_library_author">Auteur: %1$s</string>
     <string name="cd_library_license">Licence : %1$s</string>
     <string name="msg_cleared_cache">Le cache a été supprimé avec succès</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Chargement en cours…</string>
     <string name="msg_downgrade_disallowed">Impossible de revenir à la version ultérieure, essayez d\'abord de la désinstaller puis réessayez</string>
     <string name="msg_unlocked">Vous êtes maintenant un développeur</string>
-    <string name="msg_permission_grant">Pour que le Gestionnaire de Kettu fonctionne correctement, la permission de stockage de fichier est requise. Les fichiers sont stockés dans le dossier Kettu, des autorisations sont nécessaires pour y accéder.</string>
+    <string name="msg_permission_grant">Pour que le Gestionnaire de Lumi fonctionne correctement, la permission de stockage de fichier est requise. Les fichiers sont stockés dans le dossier Lumi, des autorisations sont nécessaires pour y accéder.</string>
     <string name="msg_shizuku_denied">Échec de l\'obtention des permissions Shizuku</string>
     <string name="msg_change_mirror">Voulez-vous réessayer en utilisant un autre serveur de téléchargement ?</string>
     <string name="msg_invalid_apk">L\'APK a été corrompu, essayez de vider le cache puis de réinstaller</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Téléchargement de l\'APK de librairies</string>
     <string name="step_dl_lang">Téléchargement de l\'APK de langue</string>
     <string name="step_dl_res">Téléchargement des ressources pour l\'APK</string>
-    <string name="step_dl_vd">Téléchargement du module Kettu</string>
+    <string name="step_dl_vd">Téléchargement du module Lumi</string>
     <string name="step_change_icon">Changement de l\'icône de l\'app</string>
     <string name="step_patch_manifests">Patch des manifests de l\'app</string>
-    <string name="step_add_vd">Injection de Kettu</string>
+    <string name="step_add_vd">Injection de Lumi</string>
     <string name="step_signing">Signature des APKs</string>
     <string name="step_installing">Installation des APKs</string>
     <string name="installer_success">Installation réussie</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Recharger</string>
     <string name="action_open_about">Ouvrir la page « à propos »</string>
     <string name="action_open_settings">Ouvrir les paramètres</string>
-    <string name="action_tap_to_install">Appuyez ici pour installer Kettu pour Discord %1$s</string>
+    <string name="action_tap_to_install">Appuyez ici pour installer Lumi pour Discord %1$s</string>
     <string name="action_confirm_exit">Quitter quand même</string>
     <string name="action_dismiss_nevermind">Jamais</string>
     <string name="action_dismiss_no_thanks">Non, merci</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Thème</string>
     <string name="settings_check_updates">Vérifier les mises à jour pour Discord</string>
     <string name="settings_customization">Personnalisation</string>
-    <string name="settings_customization_description">Personnalisez votre installation de Kettu</string>
+    <string name="settings_customization_description">Personnalisez votre installation de Lumi</string>
     <string name="settings_app_name">Nom de l\'appli</string>
     <string name="settings_app_icon">Remplacer l\'icône de l\'appli</string>
-    <string name="settings_app_icon_description">Utiliser l\'icône de Kettu au lieu de celle de Discord</string>
+    <string name="settings_app_icon_description">Utiliser l\'icône de Lumi au lieu de celle de Discord</string>
     <string name="settings_advanced">Avancé</string>
     <string name="settings_advanced_description">Modifier le téléchargement et l\'installation</string>
     <string name="settings_channel">Type de version</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Activer le flag de débogage</string>
     <string name="settings_logs_alternate_lines">Lignes alternatives</string>
     <string name="settings_logs_line_wrap">Retour à la ligne automatique</string>
-    <string name="update_description">La version %1$s du Gestionnaire de Kettu est maintenant disponible !</string>
+    <string name="update_description">La version %1$s du Gestionnaire de Lumi est maintenant disponible !</string>
     <string name="channel_stable">Stable</string>
     <string name="channel_beta">Bêta</string>
     <string name="channel_alpha">Alpha</string>

@@ -13,7 +13,7 @@
     <string name="msg_loading">Načítání…</string>
     <string name="msg_downgrade_disallowed">Nelze jít o verzi zpět. Nejdříve zkuste odinstalovat</string>
     <string name="msg_unlocked">Nyní jste vývojářem</string>
-    <string name="msg_permission_grant">Aby Správce Vendetty fungoval, jsou vyžadována oprávnění k přístupu k souborům. Protože jsou sdílená data uložena ve složce ~/Kettu, je pro přístup k ní požadováno oprávnění.</string>
+    <string name="msg_permission_grant">Aby Správce Vendetty fungoval, jsou vyžadována oprávnění k přístupu k souborům. Protože jsou sdílená data uložena ve složce ~/Lumi, je pro přístup k ní požadováno oprávnění.</string>
     <string name="msg_shizuku_denied">Nepodařilo se získat oprávnění pro Shizuku</string>
     <string name="msg_change_mirror">Chcete to zkusit znovu pomocí zrcadla?</string>
     <string name="msg_invalid_apk">Soubor APK byl poškozen, zkuste vyčistit paměť cache a poté přeinstalovat</string>
@@ -28,7 +28,7 @@
     <string name="step_dl_lib">Stahování apk knihoven</string>
     <string name="step_dl_lang">Stahování apk jazyků</string>
     <string name="step_dl_res">Stahování apk zdrojů</string>
-    <string name="step_dl_vd">Stahování modulu Kettu</string>
+    <string name="step_dl_vd">Stahování modulu Lumi</string>
     <string name="step_change_icon">Měnění ikony aplikace</string>
     <string name="step_patch_manifests">Vkládání manifestů aplikace</string>
     <string name="step_add_vd">Vkládání Vendetty</string>
@@ -112,7 +112,7 @@
     <string name="settings_customization_description">Přizpůsobte si instalaci Vendetty</string>
     <string name="settings_app_name">Jméno aplikace</string>
     <string name="settings_app_icon">Nahradit ikonu aplikace</string>
-    <string name="settings_app_icon_description">Používá ikonu Kettu místo ikony Discordu</string>
+    <string name="settings_app_icon_description">Používá ikonu Lumi místo ikony Discordu</string>
     <string name="settings_advanced">Pokročilé</string>
     <string name="settings_advanced_description">Upravit stahování a instalaci</string>
     <string name="settings_channel">Kanál vydání</string>

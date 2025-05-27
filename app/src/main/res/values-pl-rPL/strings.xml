@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Menedżer Kettu</string>
+    <string name="app_name">Menedżer Lumi</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Pamięć podręczna pomyślnie wyczyszczona</string>
@@ -13,10 +13,10 @@
     <string name="msg_loading">Ładowanie…</string>
     <string name="msg_downgrade_disallowed">Nie można zainstalować starszej wersji, spróbuj najpierw odinstalować aktualnie zainstalowaną</string>
     <string name="msg_unlocked">Jesteś teraz deweloperem</string>
-    <string name="msg_permission_grant">Aby Menadżer Kettu działał, wymagane są uprawnienia do plików. Ponieważ udostępnione dane są przechowywane w ~/Kettu, dostęp do nich wymaga uprawnień.</string>
+    <string name="msg_permission_grant">Aby Menadżer Lumi działał, wymagane są uprawnienia do plików. Ponieważ udostępnione dane są przechowywane w ~/Lumi, dostęp do nich wymaga uprawnień.</string>
     <string name="msg_shizuku_denied">Nie udało się uzyskać uprawnień Shizuku</string>
     <string name="msg_change_mirror">Czy chcesz spróbować ponownie, używając serwera lustrzanego pobierania?</string>
-    <string name="msg_invalid_apk">Plik APK został uszkodzony, spróbuj wyczyścić pamięć podręczną i ponownie zainstalować Kettu</string>
+    <string name="msg_invalid_apk">Plik APK został uszkodzony, spróbuj wyczyścić pamięć podręczną i ponownie zainstalować Lumi</string>
     <string name="msg_download_cancelled">Pobieranie zostało przerwane</string>
     <string name="msg_download_failed">Pobieranie nieudane</string>
     <string name="msg_download_verify_failed">Nie można zweryfikować pobranego pliku, sprawdź logi po więcej szczegółów</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Pobieranie libraries apk</string>
     <string name="step_dl_lang">Pobieranie language apk</string>
     <string name="step_dl_res">Pobieranie resources apk</string>
-    <string name="step_dl_vd">Pobieranie modułu Kettu</string>
+    <string name="step_dl_vd">Pobieranie modułu Lumi</string>
     <string name="step_change_icon">Zmienianie ikony aplikacji</string>
     <string name="step_patch_manifests">Patchowanie manifestów aplikacji</string>
-    <string name="step_add_vd">Wgrywanie Kettu</string>
+    <string name="step_add_vd">Wgrywanie Lumi</string>
     <string name="step_signing">Podpisywanie plików APK</string>
     <string name="step_installing">Instalowanie plików APK</string>
     <string name="installer_success">Pomyślnie zainstalowano</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Odśwież</string>
     <string name="action_open_about">Otwórz o aplikacji</string>
     <string name="action_open_settings">Otwórz ustawienia</string>
-    <string name="action_tap_to_install">Dotknij, aby zainstalować Kettu dla Discorda %1$s</string>
+    <string name="action_tap_to_install">Dotknij, aby zainstalować Lumi dla Discorda %1$s</string>
     <string name="action_confirm_exit">Wyjdź mimo to</string>
     <string name="action_dismiss_nevermind">Nieważne</string>
     <string name="action_dismiss_no_thanks">Nie, dziękuję</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Motyw</string>
     <string name="settings_check_updates">Sprawdź dostępność aktualizacji Discorda</string>
     <string name="settings_customization">Personalizacja</string>
-    <string name="settings_customization_description">Dostosuj instalację Kettu</string>
+    <string name="settings_customization_description">Dostosuj instalację Lumi</string>
     <string name="settings_app_name">Nazwa aplikacji</string>
     <string name="settings_app_icon">Zastąp ikonę aplikacji</string>
-    <string name="settings_app_icon_description">Używa ikony Kettu zamiast Discorda</string>
+    <string name="settings_app_icon_description">Używa ikony Lumi zamiast Discorda</string>
     <string name="settings_advanced">Zaawansowane</string>
     <string name="settings_advanced_description">Modyfikuj pobieranie i instalację</string>
     <string name="settings_channel">Kanał wydania</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Włącz flagę debugowania</string>
     <string name="settings_logs_alternate_lines">Alternatywne linie</string>
     <string name="settings_logs_line_wrap">Zawijaj wiersze</string>
-    <string name="update_description">Menadżer Kettu w wersji %1$s jest teraz dostępny!</string>
+    <string name="update_description">Menadżer Lumi w wersji %1$s jest teraz dostępny!</string>
     <string name="channel_stable">Stabilna</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

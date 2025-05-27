@@ -13,7 +13,7 @@
     <string name="msg_loading">جاري التحميل…</string>
     <string name="msg_downgrade_disallowed">لا يمكن رجوع إلى النسخة السابقة، حاول إزالة التثبيت أولاً</string>
     <string name="msg_unlocked">أنت الآن مبرمِج</string>
-    <string name="msg_permission_grant">لكي يعمل Kettu Manager، مطلوب أذونات التخزين. بما أن البيانات المخزنة يتم تخزينها في ~/Kettu، فإن الأذونات مطلوبة الحصول عليها.</string>
+    <string name="msg_permission_grant">لكي يعمل Lumi Manager، مطلوب أذونات التخزين. بما أن البيانات المخزنة يتم تخزينها في ~/Lumi، فإن الأذونات مطلوبة الحصول عليها.</string>
     <string name="msg_shizuku_denied">أخفق الحصول على أذوات Shizuku</string>
     <string name="msg_change_mirror">هل ترغب في التحميل مرة اخري من مصدر بديل؟</string>
     <string name="msg_invalid_apk">ملف الAPK تالف، حاول مسح ذاكرة التخزين المؤقت ثم إعادة التثبيت</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">تحميل الملفات الأساسية APK</string>
     <string name="step_dl_lang">تحميل لغة APK</string>
     <string name="step_dl_res">تحميل موارد APK</string>
-    <string name="step_dl_vd">تحميل وحدة Kettu</string>
+    <string name="step_dl_vd">تحميل وحدة Lumi</string>
     <string name="step_change_icon">تغيير ايقونة التطبيق</string>
     <string name="step_patch_manifests">تصحيح بيانات التطبيق</string>
-    <string name="step_add_vd">تحقين Kettu</string>
+    <string name="step_add_vd">تحقين Lumi</string>
     <string name="step_signing">توقيع APKs</string>
     <string name="step_installing">تثبيت APKs</string>
     <string name="installer_success">تم التثبيت بنجاح</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">إعادة التحميل</string>
     <string name="action_open_about">فتح حول</string>
     <string name="action_open_settings">فتح الإعدادات</string>
-    <string name="action_tap_to_install">انقر لتثبيت Kettu للديسكورد %1$s</string>
+    <string name="action_tap_to_install">انقر لتثبيت Lumi للديسكورد %1$s</string>
     <string name="action_confirm_exit">الإنهاء على أية حال</string>
     <string name="action_dismiss_nevermind">رجوع</string>
     <string name="action_dismiss_no_thanks">لا، شكراً</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">المظهر</string>
     <string name="settings_check_updates">تحقق من وجود تحديثات للديسكورد</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">اسم التطبيق</string>
     <string name="settings_app_icon">استبدال أيقونة التطبيق</string>
-    <string name="settings_app_icon_description">استخدم أيقونة Kettu بدلا من ديسكورد</string>
+    <string name="settings_app_icon_description">استخدم أيقونة Lumi بدلا من ديسكورد</string>
     <string name="settings_advanced">خيارات متقدمة</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">اصدار القناة</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">تفعيل علم التصحيح</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">إصدار Kettu Manager %1$s متاح الآن!</string>
+    <string name="update_description">إصدار Lumi Manager %1$s متاح الآن!</string>
     <string name="channel_stable">مستقر</string>
     <string name="channel_beta">تجريبي</string>
     <string name="channel_alpha">نسخة أولية</string>

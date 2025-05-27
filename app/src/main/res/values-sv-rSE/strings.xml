@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Hanteraren</string>
+    <string name="app_name">Lumi Hanteraren</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Cachen har lyckats rensats</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Laddar…</string>
     <string name="msg_downgrade_disallowed">Kan inte nedgradera, försök att avinstallera först</string>
     <string name="msg_unlocked">Du är nu en utvecklare</string>
-    <string name="msg_permission_grant">För att Kettu Hanteraren ska kunna fungera så krävs filbehörigheter. Eftersom delad data lagras i ~/Kettu så krävs behörigheter för att komma åt den.</string>
+    <string name="msg_permission_grant">För att Lumi Hanteraren ska kunna fungera så krävs filbehörigheter. Eftersom delad data lagras i ~/Lumi så krävs behörigheter för att komma åt den.</string>
     <string name="msg_shizuku_denied">Misslyckades med att få Shizuku-behörigheter</string>
     <string name="msg_change_mirror">Vill du försöka igen med hjälp av en speglad nedladdning?</string>
     <string name="msg_invalid_apk">APK:n blev korrupterad, försök att rensa cachen och sedan ominstallera</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Laddar ner programbiblioteks apk</string>
     <string name="step_dl_lang">Laddar ner språk apk</string>
     <string name="step_dl_res">Laddar ner resurs apk</string>
-    <string name="step_dl_vd">Laddar ner Kettu modul</string>
+    <string name="step_dl_vd">Laddar ner Lumi modul</string>
     <string name="step_change_icon">Ändrar appikonen</string>
     <string name="step_patch_manifests">Patchar app manifester</string>
-    <string name="step_add_vd">Injekterar Kettu</string>
+    <string name="step_add_vd">Injekterar Lumi</string>
     <string name="step_signing">Signerar APK:er</string>
     <string name="step_installing">Installerar APKer</string>
     <string name="installer_success">Installation klar</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Ladda om</string>
     <string name="action_open_about">Öppna \"om\"</string>
     <string name="action_open_settings">Öppna inställningar</string>
-    <string name="action_tap_to_install">Tryck för att installera Kettu för Discord %1$s</string>
+    <string name="action_tap_to_install">Tryck för att installera Lumi för Discord %1$s</string>
     <string name="action_confirm_exit">Gå ut ändå</string>
     <string name="action_dismiss_nevermind">Glöm det</string>
     <string name="action_dismiss_no_thanks">Nej tack</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_check_updates">Sök efter Discord-uppdateringar</string>
     <string name="settings_customization">Anpassningar</string>
-    <string name="settings_customization_description">Skräddarsy din Kettu installation</string>
+    <string name="settings_customization_description">Skräddarsy din Lumi installation</string>
     <string name="settings_app_name">Namn på appen</string>
     <string name="settings_app_icon">Ersätt appikonen</string>
-    <string name="settings_app_icon_description">Använder Kettus ikon istället för Discords</string>
+    <string name="settings_app_icon_description">Använder Lumis ikon istället för Discords</string>
     <string name="settings_advanced">Avancerat</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Stabil kanal</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Aktivera felsökbar flagga</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Kettu Manager version %1$s är nu tillgänglig!</string>
+    <string name="update_description">Lumi Manager version %1$s är nu tillgänglig!</string>
     <string name="channel_stable">Stabil</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

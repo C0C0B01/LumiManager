@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">開発者: %1$s</string>
     <string name="cd_library_license">ライセンス: %1$s</string>
     <string name="msg_cleared_cache">キャッシュを消去しました</string>
@@ -13,8 +13,8 @@
     <string name="msg_loading">読み込み中…</string>
     <string name="msg_downgrade_disallowed">ダウングレードできません。まずアンインストールを試してください</string>
     <string name="msg_unlocked">これで開発者になりました</string>
-    <string name="msg_permission_grant">Kettu Manager を正しく動作させるためには、ファイルへのアクセスを許可する必要があります。
-~/Kettu に共有データが保存されるため、Manager を機能させるためには権限が必要です。</string>
+    <string name="msg_permission_grant">Lumi Manager を正しく動作させるためには、ファイルへのアクセスを許可する必要があります。
+~/Lumi に共有データが保存されるため、Manager を機能させるためには権限が必要です。</string>
     <string name="msg_shizuku_denied">Shizukuの権限を取得できませんでした</string>
     <string name="msg_change_mirror">ダウンロードミラーを使用して再試行しますか？</string>
     <string name="msg_invalid_apk">APK が破損しています。キャッシュを消去してから再インストールしてください。</string>
@@ -29,10 +29,10 @@
     <string name="step_dl_lib">ライブラリ APK のダウンロード</string>
     <string name="step_dl_lang">言語 APK のダウンロード</string>
     <string name="step_dl_res">リソース APK のダウンロード</string>
-    <string name="step_dl_vd">Kettu モジュールのダウンロード</string>
+    <string name="step_dl_vd">Lumi モジュールのダウンロード</string>
     <string name="step_change_icon">アプリアイコンの変更</string>
     <string name="step_patch_manifests">マニフェストにパッチを適用中</string>
-    <string name="step_add_vd">Kettu をインジェクト中</string>
+    <string name="step_add_vd">Lumi をインジェクト中</string>
     <string name="step_signing">APK を署名中</string>
     <string name="step_installing">APK をインストール中</string>
     <string name="installer_success">正常にインストールされました</string>
@@ -65,7 +65,7 @@
     <string name="action_reload">再読み込み</string>
     <string name="action_open_about">概要を開く</string>
     <string name="action_open_settings">設定を開く</string>
-    <string name="action_tap_to_install">タップして Discord %1$s にKettuをインストールする</string>
+    <string name="action_tap_to_install">タップして Discord %1$s にLumiをインストールする</string>
     <string name="action_confirm_exit">とにかく終了</string>
     <string name="action_dismiss_nevermind">やめる</string>
     <string name="action_dismiss_no_thanks">いいえ</string>
@@ -110,10 +110,10 @@
     <string name="settings_theme">テーマ</string>
     <string name="settings_check_updates">Discordのアップデートを確認</string>
     <string name="settings_customization">カスタマイズ</string>
-    <string name="settings_customization_description">Kettuのカスタマイズ</string>
+    <string name="settings_customization_description">Lumiのカスタマイズ</string>
     <string name="settings_app_name">アプリ名</string>
     <string name="settings_app_icon">アプリのアイコンを置き換え</string>
-    <string name="settings_app_icon_description">Discordアイコンの代わりにKettuアイコンを使用します</string>
+    <string name="settings_app_icon_description">Discordアイコンの代わりにLumiアイコンを使用します</string>
     <string name="settings_advanced">高度な設定</string>
     <string name="settings_advanced_description">ダウンロードとインストールの変更</string>
     <string name="settings_channel">リリースチャンネル</string>
@@ -131,7 +131,7 @@
     <string name="settings_debuggable_description">デバッグ可能フラグを有効化します</string>
     <string name="settings_logs_alternate_lines">代替の行</string>
     <string name="settings_logs_line_wrap">行を折り返す</string>
-    <string name="update_description">Kettu Manager の新バージョン %1$s が利用可能です！</string>
+    <string name="update_description">Lumi Manager の新バージョン %1$s が利用可能です！</string>
     <string name="channel_stable">安定版</string>
     <string name="channel_beta">ベータ版</string>
     <string name="channel_alpha">アルファ版</string>

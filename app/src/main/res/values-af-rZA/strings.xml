@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Bestuurder</string>
+    <string name="app_name">Lumi Bestuurder</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Kas is suksesvol skoongemaak</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Laai tans…</string>
     <string name="msg_downgrade_disallowed">Kan nie afgradeer nie, probeer eers deïnstalleer</string>
     <string name="msg_unlocked">Jy is nou \'n ontwikkelaar</string>
-    <string name="msg_permission_grant">Vir Kettu Bestuurder om te funksioneer, word lêertoestemmings vereis. Aangesien gedeelde data in ~/Kettu gestoor word, word toestemmings vereis om toegang daartoe te verkry.</string>
+    <string name="msg_permission_grant">Vir Lumi Bestuurder om te funksioneer, word lêertoestemmings vereis. Aangesien gedeelde data in ~/Lumi gestoor word, word toestemmings vereis om toegang daartoe te verkry.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">Wil jy weer probeer met \'n aflaaispieël?</string>
     <string name="msg_invalid_apk">APK is korrupteer, probeer om kas skoon te maak en dan weer te installeer</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Laai library base apk af</string>
     <string name="step_dl_lang">Laai tans taalbasis Apk af</string>
     <string name="step_dl_res">Laai tans hulpbronne Apk af</string>
-    <string name="step_dl_vd">Laai tans Kettu-module af</string>
+    <string name="step_dl_vd">Laai tans Lumi-module af</string>
     <string name="step_change_icon">Verander toepassing-ikoon</string>
     <string name="step_patch_manifests">Patching app manifesteer</string>
-    <string name="step_add_vd">Inspuiting van Kettu</string>
+    <string name="step_add_vd">Inspuiting van Lumi</string>
     <string name="step_signing">Ondertekening van APK\'s</string>
     <string name="step_installing">Installeer tans APK\'s</string>
     <string name="installer_success">Suksesvol geïnstalleer</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Herlaai</string>
     <string name="action_open_about">Maak oop oor</string>
     <string name="action_open_settings">Maak instellings oop</string>
-    <string name="action_tap_to_install">Tik om Kettu vir Discord %1$s te installeer</string>
+    <string name="action_tap_to_install">Tik om Lumi vir Discord %1$s te installeer</string>
     <string name="action_confirm_exit">Verlaat in elk geval</string>
     <string name="action_dismiss_nevermind">Toemaar</string>
     <string name="action_dismiss_no_thanks">Nee dankie</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_check_updates">Kyk vir Discord-opdaterings</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">Programnaam</string>
     <string name="settings_app_icon">Vervang app-ikoon</string>
-    <string name="settings_app_icon_description">Gebruik die Kettu-ikoon in plaas van Discord s\'n</string>
+    <string name="settings_app_icon_description">Gebruik die Lumi-ikoon in plaas van Discord s\'n</string>
     <string name="settings_advanced">Gevorderd</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Stel kanaal vry</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Aktiveer ontfoutbare vlag</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Kettu Bestuurder weergawe %1$s is nou beskikbaar!</string>
+    <string name="update_description">Lumi Bestuurder weergawe %1$s is nou beskikbaar!</string>
     <string name="channel_stable">Stabiel</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alfa</string>

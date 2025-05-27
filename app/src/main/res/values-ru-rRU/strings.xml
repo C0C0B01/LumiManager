@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">Автор: %1$s</string>
     <string name="cd_library_license">Лицензия: %1$s</string>
     <string name="msg_cleared_cache">Кеш успешно очищен</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Загрузка…</string>
     <string name="msg_downgrade_disallowed">Не удалось понизить версию, сначала попробуйте удалить</string>
     <string name="msg_unlocked">Вы стали разработчиком</string>
-    <string name="msg_permission_grant">Чтобы Kettu Manager работал правильно, разрешения на доступ к файлам обязательны. Так как данные хранятся в ~/Kettu, выдача разрешений необходима для доступа к этому пути.</string>
+    <string name="msg_permission_grant">Чтобы Lumi Manager работал правильно, разрешения на доступ к файлам обязательны. Так как данные хранятся в ~/Lumi, выдача разрешений необходима для доступа к этому пути.</string>
     <string name="msg_shizuku_denied">Не удалось получить разрешения Shizuku</string>
     <string name="msg_change_mirror">Хотели бы вы попробовать еще раз, используя зеркало для скачивания?</string>
     <string name="msg_invalid_apk">Пакет был повреждён, попробуйте очистить кеш, а потом повторить установку</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Скачивание библиотек пакета</string>
     <string name="step_dl_lang">Скачивание языкового пакета</string>
     <string name="step_dl_res">Скачивание ресурсных пакетов</string>
-    <string name="step_dl_vd">Скачивание Kettu модуля</string>
+    <string name="step_dl_vd">Скачивание Lumi модуля</string>
     <string name="step_change_icon">Изменение значка приложения</string>
     <string name="step_patch_manifests">Патчинг манифестов приложения</string>
-    <string name="step_add_vd">Внедрение Kettu</string>
+    <string name="step_add_vd">Внедрение Lumi</string>
     <string name="step_signing">Подписывание пакетов</string>
     <string name="step_installing">Установка пакетов</string>
     <string name="installer_success">Успешно установлено</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Перезагрузить</string>
     <string name="action_open_about">Открыть О приложении</string>
     <string name="action_open_settings">Открыть настройки</string>
-    <string name="action_tap_to_install">Нажмите, чтобы установить Kettu для Discord %1$s</string>
+    <string name="action_tap_to_install">Нажмите, чтобы установить Lumi для Discord %1$s</string>
     <string name="action_confirm_exit">Всё равно выйти</string>
     <string name="action_dismiss_nevermind">Не сейчас</string>
     <string name="action_dismiss_no_thanks">Нет, спасибо</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Тема</string>
     <string name="settings_check_updates">Проверять на обновления Discord</string>
     <string name="settings_customization">Кастомизация</string>
-    <string name="settings_customization_description">Кастомизируйте вашу Kettu установку</string>
+    <string name="settings_customization_description">Кастомизируйте вашу Lumi установку</string>
     <string name="settings_app_name">Название приложения</string>
     <string name="settings_app_icon">Заменить значок приложения</string>
-    <string name="settings_app_icon_description">Использует иконку Kettu вместо Discord</string>
+    <string name="settings_app_icon_description">Использует иконку Lumi вместо Discord</string>
     <string name="settings_advanced">Дополнительные</string>
     <string name="settings_advanced_description">Изменить скачивание и установку</string>
     <string name="settings_channel">Канал выпуска</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Включить отладочный флаг</string>
     <string name="settings_logs_alternate_lines">Альтернативные строки</string>
     <string name="settings_logs_line_wrap">Перенос строк</string>
-    <string name="update_description">Доступна версия %1$s для Kettu Manager!</string>
+    <string name="update_description">Доступна версия %1$s для Lumi Manager!</string>
     <string name="channel_stable">Стабильный</string>
     <string name="channel_beta">Бета</string>
     <string name="channel_alpha">Альфа</string>

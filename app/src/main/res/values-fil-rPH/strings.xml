@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Manager ng Kettu</string>
+    <string name="app_name">Manager ng Lumi</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Na-clear na ang cache</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Naglo-load…</string>
     <string name="msg_downgrade_disallowed">Hindi maka-downgrade, subukang mag-uninstall muna</string>
     <string name="msg_unlocked">Isa ka nang developer ngayon</string>
-    <string name="msg_permission_grant">Upang gumana ang Kettu Manager, kinakailangan ang pahintulot ng file. Dahil nakaimbak ang nakabahaging data sa ~/Kettu, kailangan ng mga pahintulot para ma-access ito.</string>
+    <string name="msg_permission_grant">Upang gumana ang Lumi Manager, kinakailangan ang pahintulot ng file. Dahil nakaimbak ang nakabahaging data sa ~/Lumi, kailangan ng mga pahintulot para ma-access ito.</string>
     <string name="msg_shizuku_denied">Nabigong makuha ang mga pahintulot ng Shizuku</string>
     <string name="msg_change_mirror">Gusto mo bang subukan muli gamit ng download mirror?</string>
     <string name="msg_invalid_apk">Nasira ang APK, subukang i-clear ang cache at pag-reinstall</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Dina-download ang libraries apk</string>
     <string name="step_dl_lang">Dina-download ang language apk</string>
     <string name="step_dl_res">Dina-download ang resources apk</string>
-    <string name="step_dl_vd">Dina-download ang Kettu module</string>
+    <string name="step_dl_vd">Dina-download ang Lumi module</string>
     <string name="step_change_icon">Pinapalitan ang app icon</string>
     <string name="step_patch_manifests">Pina-patch ang mga app manifest</string>
-    <string name="step_add_vd">Ini-inject ang Kettu</string>
+    <string name="step_add_vd">Ini-inject ang Lumi</string>
     <string name="step_signing">Sina-sign ang mga APK</string>
     <string name="step_installing">Ini-install ang mga APK</string>
     <string name="installer_success">Matagumpay na na-install</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">I-reload</string>
     <string name="action_open_about">Buksan ang about</string>
     <string name="action_open_settings">Buksan ang mga setting</string>
-    <string name="action_tap_to_install">I-tap para i-install ang Kettu para sa Discord %1$s</string>
+    <string name="action_tap_to_install">I-tap para i-install ang Lumi para sa Discord %1$s</string>
     <string name="action_confirm_exit">Umalis na lang</string>
     <string name="action_dismiss_nevermind">Huwag na lang</string>
     <string name="action_dismiss_no_thanks">Hindi na, salamat</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_check_updates">Mag-check ng mga bagong update sa Discord</string>
     <string name="settings_customization">Pag-customize</string>
-    <string name="settings_customization_description">I-customize ang iyong Kettu install</string>
+    <string name="settings_customization_description">I-customize ang iyong Lumi install</string>
     <string name="settings_app_name">Pangalan ng app</string>
     <string name="settings_app_icon">Palitan ang app icon</string>
-    <string name="settings_app_icon_description">Gamitin ang Kettu icon sa halip ng Discord</string>
+    <string name="settings_app_icon_description">Gamitin ang Lumi icon sa halip ng Discord</string>
     <string name="settings_advanced">Advanced</string>
     <string name="settings_advanced_description">Baguhin ang pag-download at pag-install</string>
     <string name="settings_channel">Release channel</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Paganahin ang debuggable flag</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Available na ang Kettu Manager bersyon %1$s!</string>
+    <string name="update_description">Available na ang Lumi Manager bersyon %1$s!</string>
     <string name="channel_stable">Stable</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Kezelő</string>
+    <string name="app_name">Lumi Kezelő</string>
     <string name="cd_library_author">Szerző: %1$s</string>
     <string name="cd_library_license">Licenc: %1$s</string>
     <string name="msg_cleared_cache">A gyorsítótár sikeresen törlődött</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Betöltés…</string>
     <string name="msg_downgrade_disallowed">Nem lehet leminősíteni, próbálja meg először eltávolítani</string>
     <string name="msg_unlocked">Ön most már fejlesztő</string>
-    <string name="msg_permission_grant">A Kettu Kezelő működéséhez fájlengedélyekre van szükség. Mivel a megosztott adatokat a ~/Kettu fájlban tárolja, a hozzáféréshez engedélyekre van szükség.</string>
+    <string name="msg_permission_grant">A Lumi Kezelő működéséhez fájlengedélyekre van szükség. Mivel a megosztott adatokat a ~/Lumi fájlban tárolja, a hozzáféréshez engedélyekre van szükség.</string>
     <string name="msg_shizuku_denied">Nem sikerült megszerezni Shizuku engedélyeit</string>
     <string name="msg_change_mirror">Szeretné újra megpróbálni egy letöltési mirror segítségével?</string>
     <string name="msg_invalid_apk">Az APK sérült, próbálja meg a gyorsítótár törlését, majd az újratelepítést</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Könyvár apk letöltése</string>
     <string name="step_dl_lang">Nyelvi apk letöltése</string>
     <string name="step_dl_res">Források apk letöltése folyamatban</string>
-    <string name="step_dl_vd">Kettu modul letöltése</string>
+    <string name="step_dl_vd">Lumi modul letöltése</string>
     <string name="step_change_icon">App ikon megváltoztatása</string>
     <string name="step_patch_manifests">Alkalmazás manifesztek javítása</string>
-    <string name="step_add_vd">Kettu beépítése</string>
+    <string name="step_add_vd">Lumi beépítése</string>
     <string name="step_signing">APK-k aláírása</string>
     <string name="step_installing">APK-k telepítése folyamatban</string>
     <string name="installer_success">Sikeresen telepítve</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Újratöltés</string>
     <string name="action_open_about">Rólunk megnyitása</string>
     <string name="action_open_settings">Beállítások megnyitása</string>
-    <string name="action_tap_to_install">Érintse meg a Kettu A Discordhoz telepítéséhez %1$s</string>
+    <string name="action_tap_to_install">Érintse meg a Lumi A Discordhoz telepítéséhez %1$s</string>
     <string name="action_confirm_exit">Kilépés</string>
     <string name="action_dismiss_nevermind">Mindegy</string>
     <string name="action_dismiss_no_thanks">Nem, köszönöm</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Téma</string>
     <string name="settings_check_updates">Discord frissítések keresése</string>
     <string name="settings_customization">Testreszabás</string>
-    <string name="settings_customization_description">A Kettu telepítésének testreszabása</string>
+    <string name="settings_customization_description">A Lumi telepítésének testreszabása</string>
     <string name="settings_app_name">Alkalmazás neve</string>
     <string name="settings_app_icon">Alkalmazás ikon kicserélése</string>
-    <string name="settings_app_icon_description">A Kettu ikon használata a Discord ikonja helyett</string>
+    <string name="settings_app_icon_description">A Lumi ikon használata a Discord ikonja helyett</string>
     <string name="settings_advanced">Haladó</string>
     <string name="settings_advanced_description">Letöltés és telepítés módosítása</string>
     <string name="settings_channel">Kiadási csatorna</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Engedélyezze a debuggolható jelzőt</string>
     <string name="settings_logs_alternate_lines">Alternatív sorok</string>
     <string name="settings_logs_line_wrap">Felhúzott vonalak</string>
-    <string name="update_description">A Kettu Manager %1$s verziója már elérhető!</string>
+    <string name="update_description">A Lumi Manager %1$s verziója már elérhető!</string>
     <string name="channel_stable">Stabil</string>
     <string name="channel_beta">Béta</string>
     <string name="channel_alpha">Alpha</string>

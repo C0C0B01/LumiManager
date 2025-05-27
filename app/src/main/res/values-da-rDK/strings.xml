@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu manager</string>
+    <string name="app_name">Lumi manager</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Cache ryddet</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Indlæser…</string>
     <string name="msg_downgrade_disallowed">Kan ikke nedgradere, Prøv at afinstallere først</string>
     <string name="msg_unlocked">Du er nu udvikler</string>
-    <string name="msg_permission_grant">For at Kettu Manager kan fungere, kræves filtilladelser. Da delte data er gemt i ~/Kettu, kræves der tilladelser for at få adgang til dem.</string>
+    <string name="msg_permission_grant">For at Lumi Manager kan fungere, kræves filtilladelser. Da delte data er gemt i ~/Lumi, kræves der tilladelser for at få adgang til dem.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">Vil du prøve igen med et downloadspejl?</string>
     <string name="msg_invalid_apk">APK var beskadiget, Prøv at rydde cachen og derefter geninstallere</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Henter biblioteks Apk\'en</string>
     <string name="step_dl_lang">Henter sprog Apk\'en</string>
     <string name="step_dl_res">Henter ressource Apk\'en</string>
-    <string name="step_dl_vd">Henter Kettu modulet</string>
+    <string name="step_dl_vd">Henter Lumi modulet</string>
     <string name="step_change_icon">Ændring af app ikon</string>
     <string name="step_patch_manifests">Patching app manifesterer</string>
-    <string name="step_add_vd">Injicerer Kettu</string>
+    <string name="step_add_vd">Injicerer Lumi</string>
     <string name="step_signing">Signering af APK\'er</string>
     <string name="step_installing">Installerer APK\'er</string>
     <string name="installer_success">Installeret med succes</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Genindlæs</string>
     <string name="action_open_about">Åben om</string>
     <string name="action_open_settings">Åbn indstillinger</string>
-    <string name="action_tap_to_install">Tryk for at installere Kettu for Discord %1$s</string>
+    <string name="action_tap_to_install">Tryk for at installere Lumi for Discord %1$s</string>
     <string name="action_confirm_exit">Afslut alligevel</string>
     <string name="action_dismiss_nevermind">Glem det</string>
     <string name="action_dismiss_no_thanks">Nej tak</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Tema</string>
     <string name="settings_check_updates">Se efter Discord opdateringer</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">App navn</string>
     <string name="settings_app_icon">Udskift app ikon</string>
-    <string name="settings_app_icon_description">Bruger Kettu ikonet i stedet for Discords</string>
+    <string name="settings_app_icon_description">Bruger Lumi ikonet i stedet for Discords</string>
     <string name="settings_advanced">Fremskreden</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Slip kanal</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Aktiver flag, der kan fejlfindes</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Kettu Manager version %1$s er nu tilgængelig!</string>
+    <string name="update_description">Lumi Manager version %1$s er nu tilgængelig!</string>
     <string name="channel_stable">Stabil</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alfa</string>

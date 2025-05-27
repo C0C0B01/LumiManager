@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Trình quản lý Kettu</string>
+    <string name="app_name">Trình quản lý Lumi</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Đã xóa bộ nhớ đệm thành công</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Đang tải…</string>
     <string name="msg_downgrade_disallowed">Không thể hạ cấp, hãy thử gỡ cài đặt trước</string>
     <string name="msg_unlocked">Bạn hiện là nhà phát triển</string>
-    <string name="msg_permission_grant">Để Trình quản lý Kettu hoạt động, bạn cần cấp quyền truy cập tệp. Do dữ liệu chia sẻ được lưu trữ trong ~/Kettu, nên cần có quyền để truy cập dữ liệu đó.</string>
+    <string name="msg_permission_grant">Để Trình quản lý Lumi hoạt động, bạn cần cấp quyền truy cập tệp. Do dữ liệu chia sẻ được lưu trữ trong ~/Lumi, nên cần có quyền để truy cập dữ liệu đó.</string>
     <string name="msg_shizuku_denied">Nhận quyền của Shizuku thất bại</string>
     <string name="msg_change_mirror">Bạn có muốn thử lại bằng cách sử dụng máy chủ tải xuống khác không?</string>
     <string name="msg_invalid_apk">APK bị hỏng, hãy thử xóa bộ nhớ đệm rồi cài đặt lại</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Đang tải xuống các thư viện apk</string>
     <string name="step_dl_lang">Đang tải xuống ngôn ngữ apk</string>
     <string name="step_dl_res">Đang tải xuống tài nguyên apk</string>
-    <string name="step_dl_vd">Đang tải xuống mô-đun Kettu</string>
+    <string name="step_dl_vd">Đang tải xuống mô-đun Lumi</string>
     <string name="step_change_icon">Đang thay đổi biểu tượng app</string>
     <string name="step_patch_manifests">Đang vá tệp kê khai ứng dụng</string>
-    <string name="step_add_vd">Đang triển khai Kettu</string>
+    <string name="step_add_vd">Đang triển khai Lumi</string>
     <string name="step_signing">Đang ký tệp APK</string>
     <string name="step_installing">Đang cài đặt APKs</string>
     <string name="installer_success">Đã cài đặt thành công</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Tải lại</string>
     <string name="action_open_about">Mở về</string>
     <string name="action_open_settings">Mở cài đặt</string>
-    <string name="action_tap_to_install">Nhấn để cài đặt Kettu cho Discord %1$s</string>
+    <string name="action_tap_to_install">Nhấn để cài đặt Lumi cho Discord %1$s</string>
     <string name="action_confirm_exit">Vẫn thoát</string>
     <string name="action_dismiss_nevermind">Bỏ qua</string>
     <string name="action_dismiss_no_thanks">Không, cảm ơn</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Chủ đề</string>
     <string name="settings_check_updates">Kiểm tra bản cập nhật Discord</string>
     <string name="settings_customization">Tuỳ biến</string>
-    <string name="settings_customization_description">Tùy chỉnh cài đặt Kettu của bạn</string>
+    <string name="settings_customization_description">Tùy chỉnh cài đặt Lumi của bạn</string>
     <string name="settings_app_name">Tên ứng dụng</string>
     <string name="settings_app_icon">Thay thế biểu tượng ứng dụng</string>
-    <string name="settings_app_icon_description">Sử dụng biểu tượng Kettu thay vì của Discord</string>
+    <string name="settings_app_icon_description">Sử dụng biểu tượng Lumi thay vì của Discord</string>
     <string name="settings_advanced">Nâng cao</string>
     <string name="settings_advanced_description">Sửa đổi tải xuống và cài đặt</string>
     <string name="settings_channel">Kênh phát hành</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Bật tùy chọn gỡ lỗi</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Trình quản lý Kettu phiên bản %1$s đang khả dụng!</string>
+    <string name="update_description">Trình quản lý Lumi phiên bản %1$s đang khả dụng!</string>
     <string name="channel_stable">Ổn định</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

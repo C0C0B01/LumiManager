@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Managerul Kettu</string>
+    <string name="app_name">Managerul Lumi</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Memoria cache a fost golita</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Încărcare…</string>
     <string name="msg_downgrade_disallowed">Imposibil de retrogradat, încercați să dezinstalați mai întâi</string>
     <string name="msg_unlocked">Ați devenit dezvoltator</string>
-    <string name="msg_permission_grant">Pentru ca Kettu Manager să funcţioneze, sunt necesare permisiunile fişierelor. Deoarece datele partajate sunt stocate în ~/Kettu, sunt necesare permisiuni pentru a le accesa.</string>
+    <string name="msg_permission_grant">Pentru ca Lumi Manager să funcţioneze, sunt necesare permisiunile fişierelor. Deoarece datele partajate sunt stocate în ~/Lumi, sunt necesare permisiuni pentru a le accesa.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">Would you like to try again using a download mirror?</string>
     <string name="msg_invalid_apk">APK was corrupted, try clearing cache then reinstalling</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Se descarcă biblioteca %s</string>
     <string name="step_dl_lang">Se descarcă limba</string>
     <string name="step_dl_res">Se descarcă biblioteca %s</string>
-    <string name="step_dl_vd">Se descarca modulul Kettu</string>
+    <string name="step_dl_vd">Se descarca modulul Lumi</string>
     <string name="step_change_icon">Schimbați pictograma aplicației</string>
     <string name="step_patch_manifests">Patcheaza manifestele aplicatiei</string>
-    <string name="step_add_vd">Injectarea Kettu</string>
+    <string name="step_add_vd">Injectarea Lumi</string>
     <string name="step_signing">Semnare APK</string>
     <string name="step_installing">Se instalează APK</string>
     <string name="installer_success">Instalat cu succes</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Reload</string>
     <string name="action_open_about">Open about</string>
     <string name="action_open_settings">Deschideți setările</string>
-    <string name="action_tap_to_install">Tap to install Kettu for Discord %1$s</string>
+    <string name="action_tap_to_install">Tap to install Lumi for Discord %1$s</string>
     <string name="action_confirm_exit">Exit anyways</string>
     <string name="action_dismiss_nevermind">Nevermind</string>
     <string name="action_dismiss_no_thanks">No thanks</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Temă</string>
     <string name="settings_check_updates">Check for Discord updates</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">Numele aplicației</string>
     <string name="settings_app_icon">Înlocuiţi pictograma aplicaţiei</string>
-    <string name="settings_app_icon_description">Folosește icoana Kettu în loc de Discord</string>
+    <string name="settings_app_icon_description">Folosește icoana Lumi în loc de Discord</string>
     <string name="settings_advanced">Avansat</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Canal de lansare</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Activează marcajul depanabil</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Versiunea Kettu Manager %1$s este acum disponibilă!</string>
+    <string name="update_description">Versiunea Lumi Manager %1$s este acum disponibilă!</string>
     <string name="channel_stable">Stabil</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

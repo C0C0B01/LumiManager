@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">מנהל Kettu</string>
+    <string name="app_name">מנהל Lumi</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">המטמון נוקה בהצלחה</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">טוען…</string>
     <string name="msg_downgrade_disallowed">לא ניתן לחזור גרסה, נסה קודם להסיר את האפליקציה</string>
     <string name="msg_unlocked">אתה כעת מפתח</string>
-    <string name="msg_permission_grant">על מנת שמנהל Kettu יפעל, נדרשות הרשאות קובץ. מכיוון שהנתונים המשותפים מאוחסנים ב-~/Kettu, נדרשות הרשאות על מנת לגשת אליהם.</string>
+    <string name="msg_permission_grant">על מנת שמנהל Lumi יפעל, נדרשות הרשאות קובץ. מכיוון שהנתונים המשותפים מאוחסנים ב-~/Lumi, נדרשות הרשאות על מנת לגשת אליהם.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">האם תרצה לנסות שוב באמצעות קישור אחר?</string>
     <string name="msg_invalid_apk">APK was corrupted, try clearing cache then reinstalling</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">מוריד את ספריית ה-Apk</string>
     <string name="step_dl_lang">מוריד שפות האפליקציה</string>
     <string name="step_dl_res">מוריד את החומרים לאפליקציה</string>
-    <string name="step_dl_vd">מוריד את מודל Kettu</string>
+    <string name="step_dl_vd">מוריד את מודל Lumi</string>
     <string name="step_change_icon">שינוי סמל האפליקציה</string>
     <string name="step_patch_manifests">תקן אפליקציית מניפסטים</string>
-    <string name="step_add_vd">מכניס את Kettu</string>
+    <string name="step_add_vd">מכניס את Lumi</string>
     <string name="step_signing">חותם על APKs</string>
     <string name="step_installing">מתקין אפליקציות</string>
     <string name="installer_success">הותקן בהצלחה</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">רענון</string>
     <string name="action_open_about">פתח על</string>
     <string name="action_open_settings">פתח הגדרות</string>
-    <string name="action_tap_to_install">Tap to install Kettu for Discord %1$s</string>
+    <string name="action_tap_to_install">Tap to install Lumi for Discord %1$s</string>
     <string name="action_confirm_exit">Exit anyways</string>
     <string name="action_dismiss_nevermind">Nevermind</string>
     <string name="action_dismiss_no_thanks">No thanks</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">עיצוב</string>
     <string name="settings_check_updates">Check for Discord updates</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">שם האפליקציה</string>
     <string name="settings_app_icon">החלף תמונת אפליקציה</string>
-    <string name="settings_app_icon_description">השתמש בתמונה של Kettu במקום התמונה של דיסקורד</string>
+    <string name="settings_app_icon_description">השתמש בתמונה של Lumi במקום התמונה של דיסקורד</string>
     <string name="settings_advanced">הגדרות מתקדמות</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">ערוץ הפצה</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">האפשרות ניתן לניפוי באגים הופעלה</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">הגרסה %1$s של מנהל Kettu זמינה כעת!</string>
+    <string name="update_description">הגרסה %1$s של מנהל Lumi זמינה כעת!</string>
     <string name="channel_stable">יציב</string>
     <string name="channel_beta">בטא</string>
     <string name="channel_alpha">אלפא</string>

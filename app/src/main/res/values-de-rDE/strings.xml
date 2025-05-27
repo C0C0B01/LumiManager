@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Cache wurde erfolgreich geleert</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Wird geladen…</string>
     <string name="msg_downgrade_disallowed">Downgraden nicht möglich, versuche zuerst zu deinstallieren</string>
     <string name="msg_unlocked">Du bist jetzt ein Entwickler</string>
-    <string name="msg_permission_grant">Damit Kettu Manager funktionieren kann, sind Dateiberechtigungen erforderlich. Da freigegebene Daten in ~/Kettu gespeichert sind, sind Berechtigungen erforderlich, um darauf zuzugreifen.</string>
+    <string name="msg_permission_grant">Damit Lumi Manager funktionieren kann, sind Dateiberechtigungen erforderlich. Da freigegebene Daten in ~/Lumi gespeichert sind, sind Berechtigungen erforderlich, um darauf zuzugreifen.</string>
     <string name="msg_shizuku_denied">Fehler beim Abruf der Shizuku-Berechtigungen</string>
     <string name="msg_change_mirror">Möchten Sie es noch einmal mit einem Download Mirror versuchen?</string>
     <string name="msg_invalid_apk">APK wurde beschädigt. versuche den Cache zu leeren und danach neu zu installieren</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Bibliotheken APK wird heruntergeladen</string>
     <string name="step_dl_lang">Language apk wird heruntergeladen</string>
     <string name="step_dl_res">Resources apk wird heruntergeladen</string>
-    <string name="step_dl_vd">Kettu-Modul wird heruntergeladen</string>
+    <string name="step_dl_vd">Lumi-Modul wird heruntergeladen</string>
     <string name="step_change_icon">App-Icon wird geändert</string>
     <string name="step_patch_manifests">App-Manifest wird gepatcht</string>
-    <string name="step_add_vd">Kettu wird hinzugefügt</string>
+    <string name="step_add_vd">Lumi wird hinzugefügt</string>
     <string name="step_signing">APKs werden signiert</string>
     <string name="step_installing">APKs werden installiert</string>
     <string name="installer_success">Erfolgreich installiert</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Neuladen</string>
     <string name="action_open_about">Über</string>
     <string name="action_open_settings">Einstellungen öffnen</string>
-    <string name="action_tap_to_install">Tippen um Kettu für Discord %1$s zu installieren</string>
+    <string name="action_tap_to_install">Tippen um Lumi für Discord %1$s zu installieren</string>
     <string name="action_confirm_exit">Trotzdem verlassen</string>
     <string name="action_dismiss_nevermind">Vergiss es</string>
     <string name="action_dismiss_no_thanks">Nein danke</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Erscheinungsbild</string>
     <string name="settings_check_updates">Nach Aktualisierung suchen</string>
     <string name="settings_customization">Personalisierung</string>
-    <string name="settings_customization_description">Personalisiere deine Kettu-Installation</string>
+    <string name="settings_customization_description">Personalisiere deine Lumi-Installation</string>
     <string name="settings_app_name">App Name</string>
     <string name="settings_app_icon">App-Icon ersetzen</string>
-    <string name="settings_app_icon_description">Kettu-Icon anstatt Discord-Icon benutzen</string>
+    <string name="settings_app_icon_description">Lumi-Icon anstatt Discord-Icon benutzen</string>
     <string name="settings_advanced">Erweiterte Einstellungen</string>
     <string name="settings_advanced_description">Ändere Download und Installation</string>
     <string name="settings_channel">Release-Kanal</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Aktiviert das \"debuggable\" Attribut im Manifest</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Kettu-Manager Version %1$s ist jetzt verfügbar!</string>
+    <string name="update_description">Lumi-Manager Version %1$s ist jetzt verfügbar!</string>
     <string name="channel_stable">Stable</string>
     <string name="channel_beta">Beta</string>
     <string name="channel_alpha">Alpha</string>

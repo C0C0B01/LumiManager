@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">Author: %1$s</string>
     <string name="cd_library_license">License: %1$s</string>
     <string name="msg_cleared_cache">Επιτυχής εκκαθάριση προσωρινής μνήμης</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">Φόρτωση…</string>
     <string name="msg_downgrade_disallowed">Αδυναμία υποβάθμισης, δοκιμάστε πρώτα την απεγκατάσταση</string>
     <string name="msg_unlocked">Είστε πλέον προγραμματιστής</string>
-    <string name="msg_permission_grant">Για να λειτουργήσει ο Kettu Manager, απαιτούνται δικαιώματα αρχείων. Δεδομένου ότι τα κοινόχρηστα δεδομένα αποθηκεύονται στο ~/Kettu, απαιτούνται δικαιώματα πρόσβασης σε αυτά.</string>
+    <string name="msg_permission_grant">Για να λειτουργήσει ο Lumi Manager, απαιτούνται δικαιώματα αρχείων. Δεδομένου ότι τα κοινόχρηστα δεδομένα αποθηκεύονται στο ~/Lumi, απαιτούνται δικαιώματα πρόσβασης σε αυτά.</string>
     <string name="msg_shizuku_denied">Failed to obtain Shizuku permissions</string>
     <string name="msg_change_mirror">Θα θέλατε να δοκιμάσετε ξανά χρησιμοποιώντας έναν καθρέφτη λήψης;</string>
     <string name="msg_invalid_apk">Το APK ήταν κατεστραμμένο, προσπαθήστε να καθαρίσετε την προσωρινή μνήμη και έπειτα να επανεγκαταστήσετε</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">Λήψη libraries apk</string>
     <string name="step_dl_lang">Λήψη language apk</string>
     <string name="step_dl_res">Λήψη resources apk</string>
-    <string name="step_dl_vd">Λήψη πακέτου Kettu</string>
+    <string name="step_dl_vd">Λήψη πακέτου Lumi</string>
     <string name="step_change_icon">Αλλαγή εικονιδίου εφαρμογής</string>
     <string name="step_patch_manifests">Ενημέρωση manifests τής εφαρμογής</string>
-    <string name="step_add_vd">Ενσωμάτωση Kettu</string>
+    <string name="step_add_vd">Ενσωμάτωση Lumi</string>
     <string name="step_signing">Συγχρονισμός των APKs</string>
     <string name="step_installing">Εγκατάσταση APKs</string>
     <string name="installer_success">Εγκαταστάθηκε επιτυχώς</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">Ανανέωση</string>
     <string name="action_open_about">Άνοιγμα σχετικά με</string>
     <string name="action_open_settings">Άνοιγμα ρυθμίσεων</string>
-    <string name="action_tap_to_install">Πατήστε για να εγκαταστήσετε το Kettu για το Discord %1$s</string>
+    <string name="action_tap_to_install">Πατήστε για να εγκαταστήσετε το Lumi για το Discord %1$s</string>
     <string name="action_confirm_exit">Έξοδος ούτως ή άλλως</string>
     <string name="action_dismiss_nevermind">Δεν πειράζει</string>
     <string name="action_dismiss_no_thanks">Όχι, ευχαριστώ</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">Θέμα</string>
     <string name="settings_check_updates">Έλεγχος για ενημερώσεις του Discord</string>
     <string name="settings_customization">Customization</string>
-    <string name="settings_customization_description">Customize your Kettu install</string>
+    <string name="settings_customization_description">Customize your Lumi install</string>
     <string name="settings_app_name">Όνομα εφαρμογής</string>
     <string name="settings_app_icon">Αντικατάσταση εικονιδίου εφαρμογής</string>
-    <string name="settings_app_icon_description">Χρησιμοποίηση του εικονιδίου Kettu αντί του Discord</string>
+    <string name="settings_app_icon_description">Χρησιμοποίηση του εικονιδίου Lumi αντί του Discord</string>
     <string name="settings_advanced">Για προχωρημένους</string>
     <string name="settings_advanced_description">Modify downloading and installation</string>
     <string name="settings_channel">Κανάλι κυκλοφορίας</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">Ενεργοποίηση σημαίας αποσφαλμάτωσης</string>
     <string name="settings_logs_alternate_lines">Alternate lines</string>
     <string name="settings_logs_line_wrap">Wrap lines</string>
-    <string name="update_description">Η έκδοση %1$s του Kettu Manager είναι τώρα διαθέσιμη!</string>
+    <string name="update_description">Η έκδοση %1$s του Lumi Manager είναι τώρα διαθέσιμη!</string>
     <string name="channel_stable">Σταθερή</string>
     <string name="channel_beta">Δοκιμαστική</string>
     <string name="channel_alpha">Alpha</string>

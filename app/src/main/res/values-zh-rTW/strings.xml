@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Kettu Manager</string>
+    <string name="app_name">Lumi Manager</string>
     <string name="cd_library_author">作者：%1$s</string>
     <string name="cd_library_license">協議：%1$s</string>
     <string name="msg_cleared_cache">快取清除完成</string>
@@ -13,7 +13,7 @@
     <string name="msg_loading">載入中…</string>
     <string name="msg_downgrade_disallowed">無法降級，請先嘗試解除安裝</string>
     <string name="msg_unlocked">您現在已成為開發人員</string>
-    <string name="msg_permission_grant">為了使 Kettu Manager 正常運作，您需要授予「管理所有檔案」權限。由於資料儲存在 ~/Kettu 中，因此需要權限才能讀取它。</string>
+    <string name="msg_permission_grant">為了使 Lumi Manager 正常運作，您需要授予「管理所有檔案」權限。由於資料儲存在 ~/Lumi 中，因此需要權限才能讀取它。</string>
     <string name="msg_shizuku_denied">取得 Shizuku 權限失敗</string>
     <string name="msg_change_mirror">您想使用下載鏡像再試一次嗎？</string>
     <string name="msg_invalid_apk">APK 已損壞，請嘗試清除快取然後重新安裝</string>
@@ -28,10 +28,10 @@
     <string name="step_dl_lib">正在下載函式庫 apk</string>
     <string name="step_dl_lang">正在下載語言 apk</string>
     <string name="step_dl_res">正在下載資源 apk</string>
-    <string name="step_dl_vd">正在下載 Kettu 模組</string>
+    <string name="step_dl_vd">正在下載 Lumi 模組</string>
     <string name="step_change_icon">正在變更應用程式圖示</string>
     <string name="step_patch_manifests">正在安裝應用程式修補工具</string>
-    <string name="step_add_vd">正在注入 Kettu</string>
+    <string name="step_add_vd">正在注入 Lumi</string>
     <string name="step_signing">正在簽署 apk</string>
     <string name="step_installing">正在安裝 apk</string>
     <string name="installer_success">成功安裝</string>
@@ -64,7 +64,7 @@
     <string name="action_reload">重新整理</string>
     <string name="action_open_about">開啟關於</string>
     <string name="action_open_settings">開啟設定</string>
-    <string name="action_tap_to_install">點擊為 Discord 安裝 Kettu Manager %1$s</string>
+    <string name="action_tap_to_install">點擊為 Discord 安裝 Lumi Manager %1$s</string>
     <string name="action_confirm_exit">無論如何都要退出</string>
     <string name="action_dismiss_nevermind">沒關係</string>
     <string name="action_dismiss_no_thanks">不用</string>
@@ -109,10 +109,10 @@
     <string name="settings_theme">主題</string>
     <string name="settings_check_updates">檢查 Discord 更新</string>
     <string name="settings_customization">客製化</string>
-    <string name="settings_customization_description">客製化安裝您的 Kettu</string>
+    <string name="settings_customization_description">客製化安裝您的 Lumi</string>
     <string name="settings_app_name">應用程式名稱</string>
     <string name="settings_app_icon">更換應用程示圖示</string>
-    <string name="settings_app_icon_description">使用 Kettu 圖示代替 Discord 圖示</string>
+    <string name="settings_app_icon_description">使用 Lumi 圖示代替 Discord 圖示</string>
     <string name="settings_advanced">進階</string>
     <string name="settings_advanced_description">修改下載與安裝</string>
     <string name="settings_channel">發布通道</string>
@@ -130,7 +130,7 @@
     <string name="settings_debuggable_description">啟用除錯模式</string>
     <string name="settings_logs_alternate_lines">取代行線</string>
     <string name="settings_logs_line_wrap">換行線</string>
-    <string name="update_description">Kettu Manager 版本 %1$s 已可供使用！</string>
+    <string name="update_description">Lumi Manager 版本 %1$s 已可供使用！</string>
     <string name="channel_stable">穩定版（Stable）</string>
     <string name="channel_beta">測試版（Beta）</string>
     <string name="channel_alpha">早期開發版（Alpha）</string>
