@@ -16,7 +16,7 @@ class PreferenceManager(context: Context) :
     val DEFAULT_MODULE_LOCATION =
         (context.externalCacheDir ?: File(Environment.getExternalStorageDirectory(), Environment.DIRECTORY_DOWNLOADS).resolve("LumiManager").also { it.mkdirs() }).resolve("xposed.apk")
 
-    var packageName by stringPreference("package_name", "cocobo1.lumi.app")
+    var packageName by stringPreference("package_name", "com.discord")
 
     var appName by stringPreference("app_name", "Lumi")
 
