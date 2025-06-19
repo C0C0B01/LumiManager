@@ -8,12 +8,9 @@ object Constants {
     val TEAM_MEMBERS = listOf(
         TeamMember("Adv", "Artist", "aydeevee"),
         TeamMember("Demon", "Developer", "jSydorowicz21"),
-    )
-
-    val DONATORS = listOf(
-        Donator("🍦Vanilla Milk🥛", "Donator - Made the first donation :)", "ChocolateMilk314"),
-        Donator("Birb", "Donator", "ghost"),
-        Donator("Chloe~♡", "Donator", "ChloeLovelocks"),
+        TeamMember("🍦Vanilla Milk🥛", "Donator - Made the first donation :)", "ChocolateMilk314"),
+        TeamMember("Birb", "Donator", "ghost"),
+        TeamMember("Chloe~♡", "Donator", "ChloeLovelocks"),
     )
 
     // NOTE: This is no longer used
@@ -41,6 +38,12 @@ object Channels {
 }
 
 data class TeamMember(
+    val name: String,
+    val role: String,
+    val username: String = name
+)
+
+data class Donator(
     val name: String,
     val role: String,
     val username: String = name

@@ -183,25 +183,6 @@ class AboutScreen : Screen {
                             }
                         }
                     }
-                    ElevatedCard {
-                        Constants.DONATORS.forEachIndexed { i, member ->
-                            ListItem(
-                                text = member.name,
-                                subtext = member.role,
-                                imageUrl = "https://github.com/${member.username}.png",
-                                onClick = {
-                                    uriHandler.openUri("https://github.com/${member.username}")
-                                }
-                            )
-                            if (i != Constants.DONATORS.lastIndex) {
-                                HorizontalDivider(
-                                    modifier = Modifier.padding(horizontal = 16.dp),
-                                    thickness = 0.5.dp,
-                                    color = MaterialTheme.colorScheme.outline.copy(alpha = 0.3f)
-                                )
-                            }
-                        }
-                    }
                 }
 
                 Text(
