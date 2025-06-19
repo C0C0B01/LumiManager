@@ -12,6 +12,8 @@ object Constants {
 
     val DONATORS = listOf(
         Donator("🍦Vanilla Milk🥛", "Donator - Made the first donation :)", "ChocolateMilk314"),
+        Donator("Birb", "Donator", "ghost"),
+        Donator("Chloe~♡", "Donator", "ChloeLovelocks"),
     )
 
     // NOTE: This is no longer used
